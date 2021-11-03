@@ -7,4 +7,4 @@
   - The Causal Effects of a Mother's Education on her Children's Cognitive Abilities.
 - My recent working papers are:
   -  More political allegiant? The spillover effects of China's poverty alleviation campaign.
-  -  Can governments do better than parents in combatting children's digital addicition?
+  -  Can governments do better than parents in combatting children's digital addicition? Evidence from China.
