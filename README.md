@@ -1,10 +1,10 @@
 - Hi, I am Wenzhi (Eric) Wang, an undergraduate student in Guanghua School of Management, Peking University. My email is ericwang_econ@pku.edu.cn.
-- I am determined to delve deeper in empirical economics research, with special focus on the China's labor markets and unique public policies.
+- I am determined to delve deeper in empirical economics research, with special focus on China's labor market and unique public policies.
 - I believe that the combination between the design-based (reduced-form) and model-based (structural) research will become the mainstream in the future. Therefore, I am not satisfied to just become a "reg monkey", and I am now working really hard to lay a solid foundation on analysis, probability and statistics. 
 - My past research papers include:
-  - Breaking the "Iron Rice Bowl": Employment Insecurity and Intra-household Bargaining.
-  - Fertility Restrictions and Old-age Labor Supply: Evidence from China's ``LLF'' Campaign.
-  - The Causal Effects of a Mother's Education on her Children's Cognitive Abilities.
+  - Breaking the "Iron Rice Bowl": Employment Insecurity and Intra-household Bargaining
+  - Fertility Restrictions and Old-age Labor Supply: Evidence from China's "LLF" Campaign
+  - The Causal Effects of a Mother's Education on her Children's Cognitive Abilities (in Chinese)
 - My recent working papers are:
-  -  More political allegiant? The spillover effects of China's poverty alleviation campaign.
-  -  Can governments do better than parents in combatting children's digital addicition? Evidence from China.
+  -  More Political Allegiance? The Spillover Effects of China's Poverty Alleviation Program
+  -  The Power of Digital Addiction: Evidence from Age Restrictions in Playing Online Games
