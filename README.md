@@ -7,4 +7,4 @@
   - The Causal Effects of a Mother's Education on her Children's Cognitive Abilities (in Chinese)
 - My recent working papers are:
   -  More Political Allegiance? The Spillover Effects of China's Poverty Alleviation Program
-  -  The Power of Digital Addiction: Evidence from Age Restrictions in Playing Online Games
+  -  To Curb Digital Addiction: Evidence from Age Restrictions in Playing Online Games
