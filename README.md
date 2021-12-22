@@ -4,7 +4,8 @@
 - My past research papers include:
   - Breaking the "Iron Rice Bowl": Employment Insecurity and Intra-household Bargaining
   - Fertility Restrictions and Old-age Labor Supply: Evidence from China's "LLF" Campaign
-  - The Causal Effects of a Mother's Education on her Children's Cognitive Abilities (in Chinese)
+  - The Causal Effects of Maternal Education on her Children's Cognitive Abilities (in Chinese)
 - My recent working papers are:
   -  More Political Allegiance? The Spillover Effects of China's Poverty Alleviation Program
   -  To Curb Digital Addiction: Evidence from Age Restrictions in Playing Online Games
+  -  The Macro Consequences of "Children Pension" in an Imperfect Public Pension System: Evidence from China
