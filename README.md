@@ -1,6 +1,6 @@
-- Hi, I am Wenzhi (Eric) Wang, an undergraduate student in Guanghua School of Management, Peking University. My email is ericwang_econ@pku.edu.cn.
+- Hi, I am Wenzhi Wang, a Mphil student at the University of Oxford. My email is wenzhi.wang@lmh.ox.ac.uk.
 - I am determined to delve deeper in empirical economics research, with special focus on China's labor market and unique public policies.
-- I believe that the combination between the design-based (reduced-form) and model-based (structural) research will become the mainstream in the future. Therefore, I am not satisfied to just become a "reg monkey", and I am now working really hard to lay a solid foundation on analysis, probability and statistics. 
+- I am not satisfied with just running regressions and would like to get more training in structural modeling methods because certain important policy debates cannot be easily evaluated through design-based methods. I am now working hard to lay a solid foundation on mathematical knowledge and programming skills.
 - My past research papers include:
   - Breaking the "Iron Rice Bowl": Employment Insecurity and Intra-household Bargaining
   - Fertility Restrictions and Old-age Labor Supply: Evidence from China's "LLF" Campaign
